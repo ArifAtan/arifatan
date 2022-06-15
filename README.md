@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
+
 <!--
 **ArifAtan/arifatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
